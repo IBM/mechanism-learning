@@ -1,5 +1,6 @@
 # Copyright IBM Corp. 2023
- 
+# SPDX-License-Identifier: Apache2.0
+
 from unittest import TestCase
 import itertools
 import numpy as np

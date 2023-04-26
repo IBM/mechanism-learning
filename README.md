@@ -1,6 +1,3 @@
-Copyright 2023- IBM Inc. All rights reserved
-SPDX-License-Identifier: Apache2.0
-
 <!-- This should be the location of the title of the repository, normally the short name -->
 # Mechanism-Learning
 
