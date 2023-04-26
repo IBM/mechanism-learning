@@ -20,7 +20,7 @@ conda activate mechlearn
 pip install .
 ```
 
-To install the package:
+To run all of the experiments:
 ```
 cd exp
 ./exp.sh
